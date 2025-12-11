@@ -1,0 +1,39 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# VS specific files
+.vs/
+*.vcxproj.user
+
+# Temporary files
+*.tlog
+*.lastbuildstate
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.idb
+*.ipch
+
+# CMake (もし使うなら)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup / temp
+*.tmp
+*.bak
+
+# Others
+*.suo
+*.ncb
+*.sdf
+*.sln.docstates
